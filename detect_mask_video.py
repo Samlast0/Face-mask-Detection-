@@ -67,7 +67,7 @@ def fileimg(label,img):
                 id = 0
 
                 # names related to ids: example ==> Marcelo: id=1,  etc
-                names = ['None', 'Tejas','Haral','TEJAS','HARAL','TH']
+                names = ['None', 'Shivam','Mane','Shivam','Shivam','SM']
 ##                c.execute("SELECT userid FROM usrinfo ")
 ##                names = c.fetchall()
 ##                list(names)
