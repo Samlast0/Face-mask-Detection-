@@ -8,12 +8,11 @@ Automated system used to detect mask and facial features (facial recognition ) t
 # Screenshoots
 ![image](https://user-images.githubusercontent.com/91903798/159107910-332583f5-1890-4efa-a134-dd88bce636db.png)
 <b>Password Recovery</b>
-![image](https://user-images.githubusercontent.com/91903798/159107936-38940384-3cd9-4b0d-aa25-22f882b28f66.png)
 ![image](https://user-images.githubusercontent.com/91903798/159107944-23f17866-362f-4ec5-ad64-51b4846f24dd.png)
 ![image](https://user-images.githubusercontent.com/91903798/159107976-bbb813c5-7433-490c-afaa-c848d8996de2.png)
-Main Interface
+<b>Main Interface</b>
 ![image](https://user-images.githubusercontent.com/91903798/159107989-8325ef9a-90f7-4d00-b774-41d5c90a9aaf.png)
-Admin Registration 
+<b>Admin Registration</b>
 ![image](https://user-images.githubusercontent.com/91903798/159108002-b5b49bac-2650-4fe0-ba38-6f62fa11f59f.png)
-User Registration
+<b>User Registration</b>
 ![image](https://user-images.githubusercontent.com/91903798/159108035-a6cdf373-f991-48e1-b01f-8992b9840031.png)
